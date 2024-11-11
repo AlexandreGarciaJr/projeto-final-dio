@@ -55,3 +55,9 @@ classDiagram
     User --> "1..*" News
 ```
 ### Documentação da API: Swagger
+
+![img.png](img.png)
+
+### Banco de Dados em memória H2 Database
+
+![img_1.png](img_1.png)
