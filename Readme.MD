@@ -54,7 +54,7 @@ classDiagram
     User --> Card
     User --> "1..*" News
 ```
-### Documentação da API: Swagger
+### Documentação da API: Swagger.
 
 ![img.png](img.png)
 
